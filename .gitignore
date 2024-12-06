@@ -1,0 +1,43 @@
+# Node modules
+/node_modules/
+
+# Next.js build output
+/.next/
+/out/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Dependências de pacotes geradas pelo Yarn
+.pnp/
+.pnp.js
+
+# Pacotes de dependência locais do npm/yarn
+package-lock.json
+yarn.lock
+
+# Arquivos do editor
+.vscode/
+.idea/
+
+# Arquivos de ambiente
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Build de produção
+/build/
+
+# Arquivos temporários de sistemas
+.DS_Store
+Thumbs.db
+
+# Coverage reports
+/coverage/
+
+# Teste de builds gerados pelo Jest
+jest-test-results.json
