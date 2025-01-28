@@ -12,7 +12,7 @@ export default function Home() {
           height={38}
           priority
         /> */}
-        <h1 className="text-9xl">🥜</h1>
+        <h1 className="text-9xl">🪲</h1>
       </main>
       <footer className="row-start-3 flex gap-6 flex-wrap items-center justify-center">
         
